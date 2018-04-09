@@ -1,16 +1,16 @@
 
 What is this project?  Why is it?
 
-My primary rails accomplishment relates to the building/monetizing tools for schools/teachers/students.
+My primary rails accomplishment relates to the building/monetizing of tools for schools/teachers/students.
 As part of that multi-year effort, my goal was to learn Rails. It began as a Rails 2.3 toolkit, which added an upgrade
 to my learning experience. The platform grew significantly over the years, with many success stories.
-But mus of the code preserves much of where I came from,rather than where I am today, as a developer.
+But much of the code preserves where I came from,rather than where I am today, as a developer.  Not pretty.
 
-THIS PROJECT is a gathering of capabilites that I've worked on and mastered in a manner consistent with "The Rails Way"
-principles.  It more accurately reflects my current abilities and understandings.
+THIS PROJECT is a gathering of Rails capabilites that I've worked on and mastered having come to appreciate "The Rails Way."
+It more accurately reflects my current abilities and understandings.
 
-The application serves no useful business purpose.
-This project has just begun. It will continue to broaden in scope, creating a more comprehensive picture of my capabilities.
+The application serves no useful business purpose. And the project has just begun.
+It will continue to broaden in scope. As it does, a more comprehensive picture of my capabilities will emerge.
 
 ===========================================================================================================
 
