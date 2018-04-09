@@ -1,0 +1,31 @@
+development:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: rails5_way_1_local
+  pool: 5
+  username: root
+  password:
+  host: localhost
+
+test:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: rails5_way_1_test
+  pool: 5
+  username: root
+  password:
+  host: localhost
+
+production:
+  adapter: mysql2
+  encoding: utf8
+  reconnect: false
+  database: rails5_way_1_prod
+  pool: 5
+  username: precision
+  password: florentin0
+  host: localhost
+  socket: /var/lib/mysql/mysql.sock
+
