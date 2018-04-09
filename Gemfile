@@ -33,7 +33,7 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
  gem 'bcrypt', '~> 3.1.7'
  gem 'sendgrid'
- gem 'paperclip', '~> 4.3'
+ gem 'paperclip', '~> 5.2.0'
  gem 'bootstrap-generators'
  gem 'simple_form'
  gem 'acts_as_tree'
