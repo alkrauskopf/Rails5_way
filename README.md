@@ -41,7 +41,8 @@ development:
 *** ACTIVE RECORD
     Secure Passwords:  User uses secure login password
     Polymorphisms:  Both Organizations and Users Has Many Products polymorphic
-    Enums:   Organization belongs to Sectors defined as enumerable
+    Enums:   Organization belongs to a size Catagory defined as enumerable
     Secure Tokens:    User is given unique security token
+    STI: Products have types of Service/Consumer/Business with respective attributes hours/srp/sector
 
 ***
